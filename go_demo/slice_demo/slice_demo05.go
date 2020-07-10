@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	/*
 		深拷贝：将拷贝的是数据本身
-			值类型的数据，默认都是深拷贝：array，int，float，string，bool，struct
+			值类型的数据，默认都是深拷贝：array，int，float，string，bool，structdemo
 		浅拷贝：拷贝的是数据 地址
 			导致多个变量指向同一块内存
 			引用类型的数据，默认都是浅拷贝:slice ,map

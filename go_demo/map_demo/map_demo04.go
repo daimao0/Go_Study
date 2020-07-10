@@ -6,13 +6,13 @@ func main() {
 	/*
 		一、数据类型：
 			基本数据类型 int,float,string,bool
-			符合数据类型:array,slice,map,function,pointer,struct...
+			符合数据类型:array,slice,map,function,pointer,structdemo...
 				array:[size]数据类型
 				slice:[]数据类型
 				map: map[key类型]value类型
 
 		二、存储特点:
-			值类型 int,float,string,bool,array,struct
+			值类型 int,float,string,bool,array,structdemo
 			引用类型:slice ,map
 				使用make函数创建的都是引用类型	slice,map,chan
 	*/
