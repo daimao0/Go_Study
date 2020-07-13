@@ -57,7 +57,7 @@ func main() {
 	fmt.Printf("x的数值:%d,y的数值:%f\n", x, y)
 
 	fmt.Println("请输入一个整数，一个浮点类型")
-	fmt.Scanf("%d,%f", &x, &y)                          ,0]
+	fmt.Scanf("%d,%f", &x, &y)
 	fmt.Printf("x:%d,y:%f\n", x, y)
 
 }
